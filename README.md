@@ -1,86 +1,77 @@
-# E-commerce-sales-analysis
-### Project Overview
 
-This is data analysis project which aims to provide actionable insights that will help improve sales, customer retention,
-and operational efficiency. by analyzing various aspect of the sales data we seek to analyze historical data, uncover trends, and provide recommendations for strategic improvements
-![project dashboard1](https://github.com/user-attachments/assets/64a67667-ea22-4097-884e-792e49fa310f)
+# 🚗 Car Sales Analysis Dashboard
+
+An executive Power BI analytics solution designed to evaluate car sales performance, revenue trends, body style preferences, and dealer metrics across key markets.
+
+---
+
+## 📌 Executive Summary
+This project provides an end-to-end sales performance tracking dashboard for automotive retailers and management teams. By analyzing historical transaction records, customer demographics, and vehicle specifications, the interactive dashboard highlights top-selling car models, evaluates regional dealer performance, and tracks year-over-year sales growth.
+
+---
+
+## 🎯 Business Objectives
+* **Revenue Tracking:** Monitor total sales revenue, average pricing, and total units sold.
+* **Product Insights:** Identify top-performing car body styles, colors, and engine configurations.
+* **Regional & Dealer Analysis:** Evaluate sales performance across different regions and dealer networks to pinpoint high- and low-performing markets.
+* **Customer Dynamics:** Analyze buyer trends to inform targeted inventory stocking and marketing strategies.
+
+---
+
+## 🛠️ Tools & Technologies
+* **Excel:** Initial data cleaning, inspection, and missing-value handling.
+* **SQL Server:** Data transformation, aggregation, and querying.
+* **Power BI Desktop:** Star schema data modeling, DAX time-intelligence calculations, and interactive visual reporting.
+
+---
+
+## 📐 Key Metrics & KPIs
+* **Total Sales Revenue:** Dollar volume generated across all car sales.
+* **Average Vehicle Price:** Mean selling price per transaction.
+* **Total Cars Sold:** Total unit volume distributed across regions.
+* **Year-over-Year (YoY) Growth:** Percentage changes in revenue and units sold compared to previous periods.
+
+---
+
+## 💡 Key Insights
+* **Vehicle Preferences:** Identified dominant body styles (e.g., SUVs and Sedans) driving the majority of overall sales volume.
+* **Regional Trends:** Highlighted key geographical regions delivering high sales conversions, alongside underperforming markets that require strategic focus.
+* **Operational Performance:** Found distinct variance in sales cycle duration across different dealer locations.
+
+---
+
+## 📸 Dashboard Preview
+
+<div align="center">
+  <img width="906" height="507" alt="Car Sales Dashboard Overview" src="https://github.com/user-attachments/assets/ad496e77-ca1c-47fd-b635-7af52922deea" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="911" height="508" alt="Car Sales Details & Trends" src="https://github.com/user-attachments/assets/28e8c58e-7b49-4990-b5af-81586f1b60d1" />
+</div>
+
+---
+
+## 💡 Recommendations
+* **Inventory Optimization:** Align dealership inventory levels with regional body style and engine preferences.
+* **Targeted Marketing:** Focus promotional efforts on underperforming regions to boost buyer engagement.
+* **Dealer Incentives:** Implement performance-based incentives for dealer networks falling below sales benchmarks.
+
+---
 
 
-![project dashboard2](https://github.com/user-attachments/assets/12ced1ab-88d9-4ac7-ba79-7c67afe82ac4)
+---
 
-### Data Source 
+## 👤 Author & Acknowledgments
+**Chukwuebuka Dike**  
+*Data Analyst | Power BI Specialist*  
 
-Sales Data: the primary dataset use for this analysis is the "ecommerce data.xlsx" containing detailed information about each sales made by the company
-
-### Tools 
-
-- Excel - Data cleaning
-- SQL Server - Data analysis/manipulation
-- PowerBi - Creating reports
-
-### Data Cleaning/Preparation
-
-In the initial data preparation phase, we performe the following tasks;
- 1. Data loading and inspection.
- 2. Handly missing values.
- 3. Data cleaning and formating
-
-### Exploratory Data Analysis
-EDA involves exploring the sales data to answer key questions, such as:
-
-1. Identify historical sales trends (e.g., monthly, seasonal, or annual patterns).
-   
-2. Highlight the top-performing product categories and assess their contribution to overall revenue.
- 
-3. Calculate the customer retention rate and identify the percentage of returning customers.
- 
-4. Pinpoint regions with high and low sales performance.
- 
-5. Evaluate the possible reasons behind the sales differences (e.g., demographics, logistics).
-    
-6. Assess how delivery status (e.g., on-time, delayed, canceled) impacts sales and customer satisfaction in various regions.
- 
-7. Analyze how different shipping options (e.g., standard, expedited, or same-day) influence delivery performance.
- 
-8. Perform customer segmentation to identify groups based on preferences, behavior, or demographics.
-  
-9. Discover which segments show the most interest in specific products or categories.
+Special thanks to **Eseroghen** and the **InternPulse Cohort 6** program for project support and collaboration.
 
 
-### Key Findings
 
-- Sales trend analysis: identified seasonal increase in sales over the year
-- Customer retention analysis: found that 20% of customers return within 1 year
-- Geographical analysis: identified regions with high and low sales performance
-- Delivery analysis: found that delayed deliveries negatively impact customer satisfaction
-
-### Recommendations
-
-- Implement targeted marketing campaigns to capitalize on regions with low sales 
-- Develop loyalty programs to encourage customer retention
-- Optimize logistics and delivery processes to improve customer satisfaction
-
-### Code and Resources
-
-- Power BI report:
-- Data sources: [excel file link](https://1drv.ms/x/c/47afce29a43ca21e/EfH7ZQQ4UK5PuDEQT_PDi_IBsahP01jBpwzLV0okn-UK1A)
-
-### Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
-
-### License
-
-This project is licensed under the internPulse cohort6.
-
-### Acknowledgments
-
-- [dike chukwuebuka ekene] for leading the project
-- [Eseroghen] for contributing to the project
-
-  ### References
-  - [stack overflow](https://stack.com)
-  - [Her data project](https://youtu.be/0N9xekdKCwk)
 
 
 
